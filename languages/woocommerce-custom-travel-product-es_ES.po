@@ -1,0 +1,24 @@
+# Copyright (C) 2014 Web Integral
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Custom Travel Product 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woocommerce-"
+"google-analytics-integration\n"
+"POT-Creation-Date: 2015-08-21 15:11-0500\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-08-21 15:32-0500\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"X-Generator: Poedit 1.8.4\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Language: sk\n"
+
+#: woocommerce-google-analytics-integration.php:89
+msgid ""
+"WooCommerce Custom Travel Product depends on the last version of %s to work!"
+msgstr ""
+"WooCommerce Custom Travel Product depende de la última versión de %s para "
+"funcionar adecuadamente!"
